@@ -1,0 +1,79 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.Dcn_YrZr_iBORMNloY6VZgHaEK&pid=Api&P=0&h=180);
+    background-size: contain;
+}
+
+
+
+
+
+
+img{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+h1{
+    position: absolute;
+    top: 0%;
+    left: 30%;
+    font-size: 50px;
+}
+#pop1{
+    position: absolute;
+    top: 12%;
+    left: 27%;
+    font-size: 30px;
+}
+#id1{
+    position: absolute;
+    top: 5%;
+    left: 80%;
+    font-size: 18px;
+}
+header{
+ 
+  
+    padding: 0%;
+    margin: 0%;
+}
+#pop2{
+    font-size: 20px;
+    position: absolute;
+    left: 10%;
+    top: 33%;
+}
+#pop3{
+    font-size: 20px;
+    position: absolute;
+    top: 46%;
+    left: 10%;
+}
+#pop4{
+    font-size: 20px;
+    position: absolute;
+    top: 56%;
+    left: 10%;
+}
+#pop5{
+    font-size: 20px;
+    position: absolute;
+    top: 66%;
+    left:10%;
+}
+#pop6{
+    font-size: 20px;
+    position: absolute;
+    top: 75%;
+    left: 10%;
+}
+hr{
+    height: 2px;
+    color: black;
+}
+h2{
+    color: goldenrod;
+}
